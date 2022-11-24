@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alfasareekkan/netflix/static/css/main.41a0b55b.css",
+    "main.js": "/alfasareekkan/netflix/static/js/main.c5e6ce6b.js",
+    "static/js/787.0904c1f0.chunk.js": "/alfasareekkan/netflix/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/alfasareekkan/netflix/index.html",
+    "main.41a0b55b.css.map": "/alfasareekkan/netflix/static/css/main.41a0b55b.css.map",
+    "main.c5e6ce6b.js.map": "/alfasareekkan/netflix/static/js/main.c5e6ce6b.js.map",
+    "787.0904c1f0.chunk.js.map": "/alfasareekkan/netflix/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a0b55b.css",
+    "static/js/main.c5e6ce6b.js"
+  ]
+}
